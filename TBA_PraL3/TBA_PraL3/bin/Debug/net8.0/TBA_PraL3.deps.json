@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TBA_PraL3/1.0.0": {
+        "runtime": {
+          "TBA_PraL3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TBA_PraL3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

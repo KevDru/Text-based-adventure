@@ -1,0 +1,14 @@
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\TBA_PraL3\TBA_PraL3\bin\Debug\net8.0\TBA_PraL3.exe
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\TBA_PraL3\TBA_PraL3\bin\Debug\net8.0\TBA_PraL3.deps.json
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\TBA_PraL3\TBA_PraL3\bin\Debug\net8.0\TBA_PraL3.runtimeconfig.json
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\TBA_PraL3\TBA_PraL3\bin\Debug\net8.0\TBA_PraL3.dll
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\TBA_PraL3\TBA_PraL3\bin\Debug\net8.0\TBA_PraL3.pdb
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\TBA_PraL3\TBA_PraL3\obj\Debug\net8.0\TBA_PraL3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\TBA_PraL3\TBA_PraL3\obj\Debug\net8.0\TBA_PraL3.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\TBA_PraL3\TBA_PraL3\obj\Debug\net8.0\TBA_PraL3.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\TBA_PraL3\TBA_PraL3\obj\Debug\net8.0\TBA_PraL3.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\TBA_PraL3\TBA_PraL3\obj\Debug\net8.0\TBA_PraL3.dll
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\TBA_PraL3\TBA_PraL3\obj\Debug\net8.0\refint\TBA_PraL3.dll
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\TBA_PraL3\TBA_PraL3\obj\Debug\net8.0\TBA_PraL3.pdb
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\TBA_PraL3\TBA_PraL3\obj\Debug\net8.0\TBA_PraL3.genruntimeconfig.cache
+C:\Users\kevin\OneDrive\Documenten\Visual Studio 2022\Projects\TBA_PraL3\TBA_PraL3\obj\Debug\net8.0\ref\TBA_PraL3.dll
