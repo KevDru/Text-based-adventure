@@ -4,6 +4,7 @@ namespace TBA_PraL3
 {
 	public static class Instructions
 	{
+		// Methode om de spelinstructies weer te geven
 		public static void ShowInstructions()
 		{
 			Console.Clear();
@@ -25,6 +26,8 @@ namespace TBA_PraL3
 			Console.WriteLine("   Of je nu slaagt in het verbreken van de vloek, faalt in je missie, of een middenweg vindt, elk einde zal de uitkomsten van jouw reis weerspiegelen.");
 			Console.WriteLine();
 			Console.WriteLine("Geniet van je avontuur in Eldoria en moge jouw keuzes leiden tot een triomfantelijke conclusie!");
+
+			// Wacht op een toetsdruk voordat je het scherm wist
 			Console.ReadKey();
 			Console.Clear();
 		}

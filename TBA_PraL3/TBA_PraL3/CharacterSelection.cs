@@ -1,17 +1,22 @@
-﻿static class CharacterSelection
+﻿using System;
+
+static class CharacterSelection
 {
+	// Methode om een karakter te selecteren
 	public static void SelectCharacter()
 	{
-		bool characterChosen = false;
-		int characterChoice = 0;
+		bool characterChosen = false; // Vlag om bij te houden of een karakter gekozen is
+		int characterChoice = 0; // Variabele om de keuze van de speler op te slaan
 
 		while (!characterChosen)
 		{
 			Console.Clear();
 			Console.WriteLine("Kies een karakter:\n1. Aric\n2. Lyra\n3. Galen");
 
+			// Probeer de keuze van de speler te parseren naar een integer
 			if (int.TryParse(Console.ReadLine(), out characterChoice))
 			{
+				// Behandel de keuze van de speler
 				switch (characterChoice)
 				{
 					case 1:
@@ -23,7 +28,7 @@
 						{
 							Console.Clear();
 							Console.WriteLine("Je hebt Aric gekozen. Veel succes met je avontuur!");
-							Aric.StartAvontuur(); // Roep direct de methode aan
+							Aric.StartAvontuur(); // Start direct het avontuur voor Aric
 							characterChosen = true;
 						}
 						break;
@@ -36,7 +41,7 @@
 						{
 							Console.Clear();
 							Console.WriteLine("Je hebt Lyra gekozen. Veel succes met je avontuur!");
-							Lyra.StartAvontuur();
+							Lyra.StartAvontuur(); // Start direct het avontuur voor Lyra
 							characterChosen = true;
 						}
 						break;
@@ -49,16 +54,13 @@
 						{
 							Console.Clear();
 							Console.WriteLine("Je hebt Galen gekozen. Veel succes met je avontuur!");
-							Galen.StartAvontuur();
-							characterChosen = true;
+							Galen.StartAvontuur(); // Start direct het avontuur voor Galen
 						}
-						break;
-
-					default:
-						Console.WriteLine("Ongeldige keuze. Probeer het opnieuw.");
 						break;
 				}
 			}
 		}
 	}
 }
+
+
